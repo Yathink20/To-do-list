@@ -1,2 +1,4 @@
-# To-do-list
-Its a basic website where we can add the things we want to do 
+# Codes On Bytes
+phase-1
+1. to-do list
+2. portfolio  
